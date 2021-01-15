@@ -12,3 +12,6 @@ ipython_config.py
 env/
 venv/
 py_venv/
+
+
+config.yaml
